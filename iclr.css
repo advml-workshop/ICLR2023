@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+	line-height:1.5;
 }
 a{color:#7bc5be;}
 
@@ -232,8 +233,11 @@ td{
         height: auto;
         margin-top: 40px;
     }
+	.timetable{
+		padding:10px;
+	}
     td{
-        font-size: 13px;
+        font-size: 12px;
     }
     .names{
         font-size: 15px;
@@ -291,6 +295,6 @@ td{
         margin-top: 0px;
     }
 	.nav li a{
-		font-size:13px;
+		font-size:12px;
 	}
 }
