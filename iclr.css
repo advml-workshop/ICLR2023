@@ -179,6 +179,8 @@ td{
 .mt{font-size:30px;}
 
 @media(max-width:768px){
+	.ucu{padding:0 20px;}
+	
     .lineH1{
         position: relative;
         left: 0px;
